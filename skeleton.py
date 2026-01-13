@@ -5,7 +5,7 @@ from typing import TypedDict, List, Literal
 from langgraph.graph import StateGraph, END
 from openai import OpenAI
 
-API_KEY = "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"
+API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 # Aqui definimos o que o sistema "sabe" enquanto roda.
