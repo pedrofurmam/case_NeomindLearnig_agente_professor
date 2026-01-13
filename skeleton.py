@@ -1,6 +1,7 @@
 import json
 import csv
 import random
+import os
 from typing import TypedDict, List, Literal
 from langgraph.graph import StateGraph, END
 from openai import OpenAI
