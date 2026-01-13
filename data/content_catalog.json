@@ -1,0 +1,188 @@
+[
+  {
+    "id": "EX-SIN-1-0",
+    "skill": "sinais_negativos",
+    "difficulty": 1,
+    "text": "Exercício de sinais_negativos nível 1..."
+  },
+  {
+    "id": "EX-SIN-1-1",
+    "skill": "sinais_negativos",
+    "difficulty": 1,
+    "text": "Exercício de sinais_negativos nível 1..."
+  },
+  {
+    "id": "EX-SIN-2-0",
+    "skill": "sinais_negativos",
+    "difficulty": 2,
+    "text": "Exercício de sinais_negativos nível 2..."
+  },
+  {
+    "id": "EX-SIN-2-1",
+    "skill": "sinais_negativos",
+    "difficulty": 2,
+    "text": "Exercício de sinais_negativos nível 2..."
+  },
+  {
+    "id": "EX-SIN-3-0",
+    "skill": "sinais_negativos",
+    "difficulty": 3,
+    "text": "Exercício de sinais_negativos nível 3..."
+  },
+  {
+    "id": "EX-SIN-3-1",
+    "skill": "sinais_negativos",
+    "difficulty": 3,
+    "text": "Exercício de sinais_negativos nível 3..."
+  },
+  {
+    "id": "teste",
+    "skill": "sinais_negativos",
+    "difficulty": 3,
+    "text": "Exercício de sinais_negativos nível 3..."
+  },
+  {
+    "id": "EX-SIN-4-0",
+    "skill": "sinais_negativos",
+    "difficulty": 4,
+    "text": "Exercício de sinais_negativos nível 4..."
+  },
+  {
+    "id": "EX-SIN-4-1",
+    "skill": "sinais_negativos",
+    "difficulty": 4,
+    "text": "Exercício de sinais_negativos nível 4..."
+  },
+  {
+    "id": "EX-SIN-5-0",
+    "skill": "sinais_negativos",
+    "difficulty": 5,
+    "text": "Exercício de sinais_negativos nível 5..."
+  },
+  {
+    "id": "EX-SIN-5-1",
+    "skill": "sinais_negativos",
+    "difficulty": 5,
+    "text": "Exercício de sinais_negativos nível 5..."
+  },
+  {
+    "id": "EX-ISO-1-0",
+    "skill": "isolamento_x",
+    "difficulty": 1,
+    "text": "Exercício de isolamento_x nível 1..."
+  },
+  {
+    "id": "EX-ISO-1-1",
+    "skill": "isolamento_x",
+    "difficulty": 1,
+    "text": "Exercício de isolamento_x nível 1..."
+  },
+  {
+    "id": "EX-ISO-2-0",
+    "skill": "isolamento_x",
+    "difficulty": 2,
+    "text": "Exercício de isolamento_x nível 2..."
+  },
+  {
+    "id": "EX-ISO-2-1",
+    "skill": "isolamento_x",
+    "difficulty": 2,
+    "text": "Exercício de isolamento_x nível 2..."
+  },
+  {
+    "id": "EX-ISO-3-0",
+    "skill": "isolamento_x",
+    "difficulty": 3,
+    "text": "Exercício de isolamento_x nível 3..."
+  },
+  {
+    "id": "EX-ISO-3-1",
+    "skill": "isolamento_x",
+    "difficulty": 3,
+    "text": "Exercício de isolamento_x nível 3..."
+  },
+  {
+    "id": "EX-ISO-4-0",
+    "skill": "isolamento_x",
+    "difficulty": 4,
+    "text": "Exercício de isolamento_x nível 4..."
+  },
+  {
+    "id": "EX-ISO-4-1",
+    "skill": "isolamento_x",
+    "difficulty": 4,
+    "text": "Exercício de isolamento_x nível 4..."
+  },
+  {
+    "id": "EX-ISO-5-0",
+    "skill": "isolamento_x",
+    "difficulty": 5,
+    "text": "Exercício de isolamento_x nível 5..."
+  },
+  {
+    "id": "EX-ISO-5-1",
+    "skill": "isolamento_x",
+    "difficulty": 5,
+    "text": "Exercício de isolamento_x nível 5..."
+  },
+  {
+    "id": "EX-INT-1-0",
+    "skill": "interpretacao_texto",
+    "difficulty": 1,
+    "text": "Exercício de interpretacao_texto nível 1..."
+  },
+  {
+    "id": "EX-INT-1-1",
+    "skill": "interpretacao_texto",
+    "difficulty": 1,
+    "text": "Exercício de interpretacao_texto nível 1..."
+  },
+  {
+    "id": "EX-INT-2-0",
+    "skill": "interpretacao_texto",
+    "difficulty": 2,
+    "text": "Exercício de interpretacao_texto nível 2..."
+  },
+  {
+    "id": "EX-INT-2-1",
+    "skill": "interpretacao_texto",
+    "difficulty": 2,
+    "text": "Exercício de interpretacao_texto nível 2..."
+  },
+  {
+    "id": "EX-INT-3-0",
+    "skill": "interpretacao_texto",
+    "difficulty": 3,
+    "text": "Exercício de interpretacao_texto nível 3..."
+  },
+  {
+    "id": "EX-INT-3-1",
+    "skill": "interpretacao_texto",
+    "difficulty": 3,
+    "text": "Exercício de interpretacao_texto nível 3..."
+  },
+  {
+    "id": "EX-INT-4-0",
+    "skill": "interpretacao_texto",
+    "difficulty": 4,
+    "text": "Exercício de interpretacao_texto nível 4..."
+  },
+  {
+    "id": "EX-INT-4-1",
+    "skill": "interpretacao_texto",
+    "difficulty": 4,
+    "text": "Exercício de interpretacao_texto nível 4..."
+  },
+  {
+    "id": "EX-INT-5-0",
+    "skill": "interpretacao_texto",
+    "difficulty": 5,
+    "text": "Exercício de interpretacao_texto nível 5..."
+  },
+  {
+    "id": "EX-INT-5-1",
+    "skill": "interpretacao_texto",
+    "difficulty": 5,
+    "text": "Exercício de interpretacao_texto nível 5..."
+  }
+]

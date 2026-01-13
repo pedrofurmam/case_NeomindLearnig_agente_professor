@@ -1,0 +1,16 @@
+student_id,skill,score
+ALUNO-001,sinais_negativos,0.55
+ALUNO-001,isolamento_x,0.9
+ALUNO-001,interpretacao_texto,0.76
+ALUNO-002,sinais_negativos,0.94
+ALUNO-002,isolamento_x,0.27
+ALUNO-002,interpretacao_texto,0.4
+ALUNO-003,sinais_negativos,0.96
+ALUNO-003,isolamento_x,0.1
+ALUNO-003,interpretacao_texto,0.27
+ALUNO-004,sinais_negativos,0.57
+ALUNO-004,isolamento_x,0.89
+ALUNO-004,interpretacao_texto,0.65
+ALUNO-005,sinais_negativos,0.9
+ALUNO-005,isolamento_x,0.24
+ALUNO-005,interpretacao_texto,0.52
